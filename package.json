@@ -1,0 +1,27 @@
+{
+  "name": "drak",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drak",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.3.2",
+    "figlet": "^1.2.0",
+    "fortnite": "^4.1.1",
+    "get-json": "^1.0.0",
+    "google-translate-api": "^2.3.0",
+    "moment": "^2.22.2",
+    "moment-duration-format": "^2.2.2",
+    "random-puppy": "^1.1.0",
+    "request": "^2.87.0",
+    "snekfetch": "^4.0.4",
+    "strict-uri-encode": "^2.0.0",
+    "superagent": "^3.8.3"
+  }
+}
